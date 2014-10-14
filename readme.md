@@ -45,9 +45,7 @@ Lakukan **validasi** email pada form komentar dengan menggunakan javascript. Kom
 
 ## Tools
 
-Pembuatan blog ini tidak boleh menggunakan framework PHP dan framework javascript.
-
-**Tidak boleh menggunakan jquery untuk ajax.**
+Pembuatan blog ini tidak boleh menggunakan framework PHP dan javascript.
 
 ## Deliverable
 
